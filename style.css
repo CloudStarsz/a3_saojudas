@@ -49,23 +49,26 @@ body {
     color: white;
     font-family: 'Lato', sans-serif;
 }
-
-
-ul li{
-    display: inline-block;
-    
+#divtext{
+    width: 70%
+    margin: 20px auto;
+    position: relative;
 }
 
-#paragrafo1{
+#paragrafo1 {
+    font-size: 16px;
+    width: 65%;
+    display: inline-block;
+    text-align: justify-all;
     margin-left: 50px;
-    text-align: center;
-    font-size: 18px;
-    display: inline-block;
-    width: 33%;
-
 }
 
-#eva {
-    width: 30%;
-    height: 30%;
+
+#eva{
+    max-width: 20%;
+    max-height: 50%;
+    right: 0;
+    margin-right: 120px;
+    position: absolute;
+    top: 258px;
 }
