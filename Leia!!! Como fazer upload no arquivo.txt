@@ -1,0 +1,15 @@
+Galera, fiz esse doc aqui pra explicar como fazer o upload das versões do arquivo e ngm se embananar
+
+Sempre que você alterar algo voce:
+
+1- Baixa o arquivo que você vai alterar
+2- vê oq tem de diferente da versão q vc tem
+3- coloca sua alterações nele
+
+seria mais facil com o git pq ele ja faz esses 3 passos automaticamente, mas devido a dificuldade de operar a ferramenta
+(pelomenos no começo), vamos fazer assim.
+
+btw, pra deixar claro o que cada arquivo é:
+
+index.html = pagina principal
+style.css = estilo da pagina principal
