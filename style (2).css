@@ -1,6 +1,6 @@
 header {
     width: 100%;
-    background-color: #6734ff;
+    background-color: #5000CA;
     position: fixed;
     top: 0;
 }
@@ -33,8 +33,8 @@ nav li a {
                  -1px  1px 0px #000,                    
                   1px -1px 0px #000,                  
                   1px  0px 0px #000;
-    border: 2px solid white;
-    border-radius: 5px;
+    border: 1px groove gainsboro;
+    border-radius: 4px;
     background: green;
 
 }
